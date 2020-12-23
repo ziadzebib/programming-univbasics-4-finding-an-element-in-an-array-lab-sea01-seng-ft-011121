@@ -10,6 +10,3 @@ def find_element_index(array, value_to_find)
     element_index_value
 end
   
-  [11, 12, 13]
-  
-  value to find = 13
