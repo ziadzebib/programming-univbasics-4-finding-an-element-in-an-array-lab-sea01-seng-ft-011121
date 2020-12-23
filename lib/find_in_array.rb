@@ -8,6 +8,6 @@ def find_element_index(array, value_to_find)
     end  
   end
   
-  [11, 12, 1]
-  3
+  [11, 12, 13]
+  
   value to find = 13
